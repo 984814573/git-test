@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello git3 modify by hot-fix");
         System.out.println("hello git3 modify by master");
         System.out.println("hello git3 modify again by hot-fix");
+        System.out.println("push test");
     }
 }
